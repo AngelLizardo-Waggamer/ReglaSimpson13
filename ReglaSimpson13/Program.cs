@@ -8,14 +8,14 @@ double fx(double x) {
 
 // Aplicación de regla simpson 1/3
 // NOTa: Esta forma únicamente es válida cuando, y solo cuando, no se requiere de hacer subdivisiones entre los intervalos.
-double simpson13(Func<double, double> f, double a, double b) {
+double simpson13(Func<double, double> f, double a, double b, bool info) {
 
     double h = (b - a) / 2;
     double x0 = a;
     double x1 = a + h;
     double x2 = b;
 
-    if (mostrarInformacion) {
+    if (info) {
         Console.WriteLine($"h = {b} - {a} / 2 = {h}");
         Console.WriteLine($"x0 = {a} = {x0}");
         Console.WriteLine($"x1 = {a} + {h} = {x1}");
@@ -43,5 +43,5 @@ Console.WriteLine("(Opcional) ¿Mostrar información de parametros? (s/n)");
 Console.Write(">>"); mostrarInformacion = Console.ReadLine()!.Equals("s", StringComparison.CurrentCultureIgnoreCase);
 
 // Calculo de area
-double area = simpson13(fx, lim_inferior, lim_superior);
+double area = simpson13(fx, lim_inferior, lim_superior, mostrarInformacion);
 Console.WriteLine($"|   El area bajo la curva es: {area} u^2   |");
