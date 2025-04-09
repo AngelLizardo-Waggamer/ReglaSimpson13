@@ -1,0 +1,14 @@
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\bin\Debug\net9.0\ReglaSimpson13.exe
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\bin\Debug\net9.0\ReglaSimpson13.deps.json
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\bin\Debug\net9.0\ReglaSimpson13.runtimeconfig.json
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\bin\Debug\net9.0\ReglaSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\bin\Debug\net9.0\ReglaSimpson13.pdb
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.AssemblyInfoInputs.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.AssemblyInfo.cs
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.csproj.CoreCompileInputs.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\refint\ReglaSimpson13.dll
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.pdb
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ReglaSimpson13.genruntimeconfig.cache
+C:\Users\aahli\Documents\Repositorios\Nube\Csharp\ReglaSimpson13\ReglaSimpson13\obj\Debug\net9.0\ref\ReglaSimpson13.dll
